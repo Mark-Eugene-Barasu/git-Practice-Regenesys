@@ -1,1 +1,1 @@
-# git Practice Regenesys
+# Git Practice with Digital Regenesys Online School
